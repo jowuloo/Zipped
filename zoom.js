@@ -1,10 +1,25 @@
+
 var products;
+
 
 $.getJSON( "products.json", function(data) {
     products = data.products;
-    console.log(products);
+    show(products);
 });    
+
+
+function show(products) {
+    for(let i = 0; i < products.length; i++) {
+        console.log(products[i]);
+        const elem = document.createElement("div");
+        elem.innerHTML = "<h3>" + products[i].Name + "</h3>" + products[i].Genre + products[i].Price + "<p>" + products[i].Description + "</p>";
+        document.getElementById("products").appendChild(elem);
+    }
     
+    
+}
+
+
 function openCity(evt, cityName) {
     var i, tabcontent, tablinks;
     tabcontent = document.getElementsByClassName("tabcontent");
