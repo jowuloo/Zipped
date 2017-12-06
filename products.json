@@ -4,7 +4,7 @@
          "Name":"Just Cause 2 ",
          "Genre":"Action ",
          "Price":"$29.99 ",
-         "Image":"jastcause2.jpg",
+         "Image":"assests/jastcause2.jpg",
          "Description": "Just Cause 2 is a 2010 open world action-adventure video game developed by Avalanche Studios, published by Eidos Interactive and distributed by Square Enix for Microsoft Windows, PlayStation 3 and Xbox 360. "
       },
       {
@@ -32,43 +32,43 @@
          "Name":"The Long Dark ",
          "Genre":"Survival ",
          "Price":"$34.99 ",
-         "Image":"thelongdark.jpg" ,
+         "Image":"assets/thelongdark.jpg" ,
          "Description":"The Long Dark is a first-person survival video game developed and published by Hinterland Studio. The player assumes the role of a crash-landed bush pilot who must survive the frigid Canadian wilderness after a global disaster. "
-      }
+      },
       {
          "Name":"Grand Theft Auto 5 ",
          "Genre":"Action ",
          "Price":"$9.99 ",
-         "Image":"grandtheftautoV.jpeg" ,
+         "Image":"assests/grandtheftautoV.jpeg" ,
          "Description":"Grand Theft Auto V is an action-adventure video game developed by Rockstar North and published by Rockstar Games. Set within the fictional state of San Andreas, based on Southern California, the single-player story follows three criminals and their efforts to commit heists while under pressure from a government agency."
-      }
+      },
       {
          "Name":"Battlefield 4 ",
          "Genre":"Action ",
          "Price":"$14.99 ",
-         "Image":"battlefield4.png" ,
+         "Image":"assests/battlefield4.png" ,
          "Description":"Battlefield 4 is a first-person shooter video game developed by video game developer EA DICE and published by Electronic Arts."
-      }
+      },
       {
          "Name":"Miasmata ",
          "Genre":"Survival ",
          "Price":"$19.99 ",
-         "Image":"miasmata.jpg" ,
+         "Image":"assests/miasmata.jpg" ,
          "Description":"Miasmata is a survival indie video game developed by brothers Joe and Bob Johnson under the studio name IonFX."
-      }
+      },
       {
          "Name":"Layers of Fear ",
          "Genre":"Horror ",
          "Price":"$14.99 ",
-         "Image":"layeroffear.jpg" ,
+         "Image":"assests/layeroffear.jpg" ,
          "Description":"Layers of Fear is a psychological horror video game developed and published by Bloober Team. "
-      }
+      },
       {
          "Name":"Invisible, Inc. ",
          "Genre":"Puzzle ",
          "Price":"$9.99 ",
-         "Image":"invisibleinc.jpg" ,
-         "Description":"nvisible, Inc. is a turn-based tactics stealth video game incorporating elements of roguelike gameplay, developed by Canadian independent studio Klei Entertainment.  "
+         "Image":"assests/invisibleinc.jpg" ,
+         "Description":"assests/Invisible, Inc. is a turn-based tactics stealth video game incorporating elements of roguelike gameplay, developed by Canadian independent studio Klei Entertainment.  "
       }
       
    ]
